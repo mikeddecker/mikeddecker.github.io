@@ -15,5 +15,6 @@
     ></Button>
     <Button label="Verify" class="bg-red-300"></Button>
     <p>Let us change something</p>
+    <p>Another test</p>
   </div>
 </template>
